@@ -20,12 +20,12 @@
     margin-bottom: 1.25rem;
 }
 
-.title {
+/* .title {
     font-size: 1.25rem;
     font-weight: 800;
     margin: 0.75rem 0;
     cursor: pointer;
-}
+} */
 
 .title:hover {
     color: hsl(47, 88%, 63%);
